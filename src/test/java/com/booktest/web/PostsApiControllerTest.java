@@ -1,7 +1,7 @@
 package com.booktest.web;
 
-import com.booktest.web.domain.posts.Posts;
-import com.booktest.web.domain.posts.PostsRepository;
+import com.booktest.service.domain.posts.Posts;
+import com.booktest.service.domain.posts.PostsRepository;
 import com.booktest.web.dto.PostsSaveRequestDto;
 
 import com.booktest.web.dto.PostsUpdateRequestDto;

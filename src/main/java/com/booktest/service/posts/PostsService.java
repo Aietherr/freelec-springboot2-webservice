@@ -1,9 +1,9 @@
 package com.booktest.service.posts;
 
-import com.booktest.web.domain.posts.Posts;
+import com.booktest.service.domain.posts.Posts;
 import com.booktest.web.dto.PostsResponseDto;
 import com.booktest.web.dto.PostsSaveRequestDto;
-import com.booktest.web.domain.posts.PostsRepository;
+import com.booktest.service.domain.posts.PostsRepository;
 import com.booktest.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.booktest.web.domain.posts;
+package com.booktest.service.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
